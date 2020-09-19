@@ -1,0 +1,41 @@
+{
+  "name": "vuex-typescript-solutions-comparison",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "lodash": "4.17.20",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^8.4.2",
+    "vuex": "^3.4.0",
+    "vuex-class": "0.3.2",
+    "vuex-class-component": "2.3.5",
+    "vuex-class-modules": "1.1.2",
+    "vuex-module-decorators": "0.17.0",
+    "vuex-smart-module": "0.4.5",
+    "vuex-typex": "3.1.6"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.161",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass": "^1.26.11",
+    "sass-loader": "^10.0.2",
+    "typescript": "~3.9.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
